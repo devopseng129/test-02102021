@@ -1,2 +1,3 @@
 this changes are intented to have conflicts with remote
 changes done locally
+edited file remotely
